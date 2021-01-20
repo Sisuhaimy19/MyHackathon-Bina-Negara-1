@@ -2,4 +2,4 @@ RP01;Ahmad;000918050341;0187856901;ahmad@gmail.com;Structure;Selangor;Pending;Ro
 RP02;Abu;000918050341;0187856901;ahmad@gmail.com;Structure;Selangor;Pending;Road
 RP03;Amir;000987890163;0198789015;amir@gmail.com;Structures;Serdang;Pending;Traffic
 RP04;Ramu;0000000006;0176903451;ramu_@gmail.com;Building Instruction;Kajang;Pending;Traffic Light not function
-
+RP05;Danial;980917105611;0176715420;danial@gmail.com;Building Instruction;Bangi;Pending;Leaking roof in supermarket bahagia
